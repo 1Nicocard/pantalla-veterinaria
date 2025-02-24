@@ -1,0 +1,128 @@
+h2{
+    font-weight: 100;
+    font-size: 20px;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+header {
+text-align: center;
+}
+
+
+nav {
+    background: rgb(41, 32, 163);
+    color: rgb(255, 255, 255);
+    padding: 10px 0 10px 0;
+    margin-top: 0px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 0 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+   text-decoration: none;
+   font-weight: 400;
+   font-size: 20px;
+}
+
+
+.bienvenidos{
+    padding-top: 50px;
+}
+
+.Quienes{
+    padding-top: 50px;
+}
+
+#usuario-1{
+
+    border-radius: 50%;
+    padding-left: 10px;
+}
+
+#usuario-2{
+    border-radius: 50%;
+    padding-left: 10px;
+}
+
+.caja-de-prod{
+
+    padding-top:100px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: rgb(233, 231, 243);
+    border-radius: 50px;
+}
+
+.fotos ul {
+    padding-left: 190px;
+    display: flex;
+    list-style: none; /* Elimina los estilos de lista */
+    text-align: center;
+    
+}
+
+.fotos li {
+    margin-right: 95px; /* Espacio entre elementos */
+}
+
+
+.botones{  
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    border: 0;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(41, 32, 163);
+    padding: 13px 120px;
+    border-radius: 15px;
+}
+
+.contacto{
+    margin-bottom: 50px;
+}
+
+.form{
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+  
+
+.boto{
+    padding-top: 50px;
+padding-bottom: 100px;
+}
+
+
+.boton2{ 
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    border: 0;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 163, 32);
+    padding: 13px 200px;
+    border-radius: 15px;}
+
+    p{
+        color: rgb(255, 255, 255);
+        padding: 1%;
+        background-color: rgb(77, 77, 77);
+    }
